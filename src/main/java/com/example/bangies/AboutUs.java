@@ -1,4 +1,4 @@
 package com.example.bangies;
 
-public class MainController {
+public class AboutUs {
 }

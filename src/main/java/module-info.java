@@ -10,6 +10,6 @@ module com.example.babgies {
     requires eu.hansolo.tilesfx;
     requires com.almasb.fxgl.all;
 
-    opens com.example.babgies to javafx.fxml;
-    exports com.example.babgies;
+    opens com.example.bangies to javafx.fxml;
+    exports com.example.bangies;
 }

@@ -1,4 +1,4 @@
-package com.example.babgies;
+package com.example.bangies;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
